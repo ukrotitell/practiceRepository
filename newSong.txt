@@ -1,4 +1,8 @@
 Ah, yeah, na-na, na-na, yeah
 Na, na-na, na-na-na-na, na-na (Ahh)
 Damn, Aidan, what you up to, bro?
+<<<<<<< HEAD
 What you been up to, Aidan? Yo, yeah, I been
+=======
+What you been up to, Aidan? Yo, yeah, I been
+>>>>>>> 01d34a997daa9eb745eeea6266d6a79fd827400f
